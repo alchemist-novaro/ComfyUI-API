@@ -1,6 +1,6 @@
 # ComfyUI-API Integration Project
 This is a project what I completed for a client.
-The app is designed to process text to image or image to image tasks via comfyui-api, and upload processed image to firebase.
+The app is designed to process text to image or image to image tasks via comfyui api, and upload processed image to firebase.
 You can build comfyui integrated website or other apps referring to this app.
 ## Run project
 - First, install dependencies.
